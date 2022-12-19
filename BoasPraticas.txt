@@ -1,0 +1,7 @@
+1. Faça uma pesquisa sobre as boas práticas que podem ser aplicadas no versionamento de códigos.
+
+https://blog.myscrumhalf.com/algumas-boas-praticas-no-controle-de-versao/
+
+2. Selecione ao menos uma prática e compartilhe sua sugestão preenchendo o nosso quadro colaborativo.
+
+R - Uma boa prática no versionamento é ter sempre o backup das versões do seu código.
